@@ -20,4 +20,4 @@ while count != 0 do
     puts "Sum from 1 to #{number} is #{result}"
     count -= 1
   end
-end
+end 
